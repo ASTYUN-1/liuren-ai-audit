@@ -1,0 +1,68 @@
+[
+  {
+    "path": "references/judgment-core.md",
+    "sha55": "588366809c301bdde24ca5969e09bfbf4ae93550bf85d1dec1139226e7686a19",
+    "sha62": "e90d836c9a895e1653fecda985457d2f27bf54ca6051fa6c263b5a432531356d",
+    "bytes_equal": false,
+    "text_equal": false
+  },
+  {
+    "path": "methods/liqi.md",
+    "sha55": "8b016186ef016157c9f88f8c209291ee014d5a90fc4f3f89f97826894e6672d8",
+    "sha62": "8b016186ef016157c9f88f8c209291ee014d5a90fc4f3f89f97826894e6672d8",
+    "bytes_equal": true,
+    "text_equal": true
+  },
+  {
+    "path": "references/quantity-strength.md",
+    "sha55": "89cf003d429338e203ca94173b299b0b85c16bdb5399b75f4a9b8bb5196d900f",
+    "sha62": "89cf003d429338e203ca94173b299b0b85c16bdb5399b75f4a9b8bb5196d900f",
+    "bytes_equal": true,
+    "text_equal": true
+  },
+  {
+    "path": "references/quantity-correction.md",
+    "sha55": "661b54740c1124ad22f0d77d28596449670d231bee265af700616f0f64b497ff",
+    "sha62": "661b54740c1124ad22f0d77d28596449670d231bee265af700616f0f64b497ff",
+    "bytes_equal": true,
+    "text_equal": true
+  },
+  {
+    "path": "references/confirmed-policy-supplements.md",
+    "sha55": "0f81706eb59fb73dbf50e53710b39bbdfbdc9b838410af6a2a3358b0a27fc73b",
+    "sha62": "0f81706eb59fb73dbf50e53710b39bbdfbdc9b838410af6a2a3358b0a27fc73b",
+    "bytes_equal": true,
+    "text_equal": true
+  },
+  {
+    "path": "references/confirmed-policy-evidence.json",
+    "sha55": "d2049fcea9d7971fb383bfa970a9d38f7a7602258b01ab4ddbcabfd4ee07b16c",
+    "sha62": "d2049fcea9d7971fb383bfa970a9d38f7a7602258b01ab4ddbcabfd4ee07b16c",
+    "bytes_equal": true,
+    "text_equal": true
+  },
+  {
+    "id": "SP03",
+    "path": "书籍库/北海闲人/理法简易.txt",
+    "registered_start": 4913,
+    "registered_end": 4923,
+    "source_sha_matches": true,
+    "registered_quote_matches": true
+  },
+  {
+    "id": "SP04",
+    "path": "书籍库/北海闲人/毕法赋全解-正式整理本.md",
+    "registered_start": 1235,
+    "registered_end": 1245,
+    "source_sha_matches": true,
+    "registered_quote_matches": true
+  },
+  {
+    "id": "SP05",
+    "path": "书籍库/北海闲人/毕法赋全解-正式整理本.md",
+    "registered_start": 1261,
+    "registered_end": 1273,
+    "source_sha_matches": true,
+    "registered_quote_matches": true
+  }
+]

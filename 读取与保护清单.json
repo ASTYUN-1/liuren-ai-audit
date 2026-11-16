@@ -1,0 +1,1017 @@
+[
+  {
+    "path": "runtime/liuren/20261114-tool-reliability-55/references/judgment-core.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261114-tool-reliability-55\\references\\judgment-core.md",
+    "sha256": "588366809c301bdde24ca5969e09bfbf4ae93550bf85d1dec1139226e7686a19",
+    "bytes": 20443,
+    "lines": 94,
+    "read_ranges": [
+      [
+        1,
+        94
+      ]
+    ],
+    "evidence_ids": [
+      "U55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261114-tool-reliability-55/methods/liqi.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261114-tool-reliability-55\\methods\\liqi.md",
+    "sha256": "8b016186ef016157c9f88f8c209291ee014d5a90fc4f3f89f97826894e6672d8",
+    "bytes": 13934,
+    "lines": 115,
+    "read_ranges": [
+      [
+        1,
+        115
+      ]
+    ],
+    "evidence_ids": [
+      "L55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261114-tool-reliability-55/references/quantity-strength.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261114-tool-reliability-55\\references\\quantity-strength.md",
+    "sha256": "89cf003d429338e203ca94173b299b0b85c16bdb5399b75f4a9b8bb5196d900f",
+    "bytes": 2803,
+    "lines": 23,
+    "read_ranges": [
+      [
+        1,
+        23
+      ]
+    ],
+    "evidence_ids": [
+      "QS55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261114-tool-reliability-55/references/quantity-correction.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261114-tool-reliability-55\\references\\quantity-correction.md",
+    "sha256": "661b54740c1124ad22f0d77d28596449670d231bee265af700616f0f64b497ff",
+    "bytes": 8172,
+    "lines": 51,
+    "read_ranges": [
+      [
+        1,
+        51
+      ]
+    ],
+    "evidence_ids": [
+      "QC55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261114-tool-reliability-55/entry.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261114-tool-reliability-55\\entry.md",
+    "sha256": "5b075a392de4d6a2b3eabdd5d4f767944c4841f9e483918163a0fc441d85bac2",
+    "bytes": 2457,
+    "lines": 18,
+    "read_ranges": [
+      [
+        1,
+        18
+      ]
+    ],
+    "evidence_ids": [
+      "EN55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261114-tool-reliability-55/references/confirmed-policy-register.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261114-tool-reliability-55\\references\\confirmed-policy-register.json",
+    "sha256": "1449cd111922fbdaab14f6779fc5686641e66bad04b67aaa30b4608801cd9f65",
+    "bytes": 7284,
+    "lines": 232,
+    "read_ranges": [
+      [
+        1,
+        232
+      ]
+    ],
+    "evidence_ids": [
+      "REG55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261114-tool-reliability-55/references/confirmed-policy-supplements.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261114-tool-reliability-55\\references\\confirmed-policy-supplements.md",
+    "sha256": "0f81706eb59fb73dbf50e53710b39bbdfbdc9b838410af6a2a3358b0a27fc73b",
+    "bytes": 17943,
+    "lines": 196,
+    "read_ranges": [
+      [
+        59,
+        107
+      ]
+    ],
+    "evidence_ids": [
+      "SUP55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261115-class-selection-62/references/judgment-core.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261115-class-selection-62\\references\\judgment-core.md",
+    "sha256": "e90d836c9a895e1653fecda985457d2f27bf54ca6051fa6c263b5a432531356d",
+    "bytes": 21035,
+    "lines": 94,
+    "read_ranges": [
+      [
+        1,
+        94
+      ]
+    ],
+    "evidence_ids": [
+      "U62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261115-class-selection-62/methods/liqi.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261115-class-selection-62\\methods\\liqi.md",
+    "sha256": "8b016186ef016157c9f88f8c209291ee014d5a90fc4f3f89f97826894e6672d8",
+    "bytes": 13934,
+    "lines": 115,
+    "read_ranges": [
+      [
+        1,
+        115
+      ]
+    ],
+    "evidence_ids": [
+      "L62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261115-class-selection-62/references/quantity-strength.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261115-class-selection-62\\references\\quantity-strength.md",
+    "sha256": "89cf003d429338e203ca94173b299b0b85c16bdb5399b75f4a9b8bb5196d900f",
+    "bytes": 2803,
+    "lines": 23,
+    "read_ranges": [
+      [
+        1,
+        23
+      ]
+    ],
+    "evidence_ids": [
+      "QS62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261115-class-selection-62/references/quantity-correction.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261115-class-selection-62\\references\\quantity-correction.md",
+    "sha256": "661b54740c1124ad22f0d77d28596449670d231bee265af700616f0f64b497ff",
+    "bytes": 8172,
+    "lines": 51,
+    "read_ranges": [
+      [
+        1,
+        51
+      ]
+    ],
+    "evidence_ids": [
+      "QC62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261115-class-selection-62/entry.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261115-class-selection-62\\entry.md",
+    "sha256": "7867630ab97c303b3c5bbba874915ac10bf6477ffd9b0ec973197ecef7a435a3",
+    "bytes": 4062,
+    "lines": 24,
+    "read_ranges": [
+      [
+        1,
+        24
+      ]
+    ],
+    "evidence_ids": [
+      "EN62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261115-class-selection-62/references/confirmed-policy-register.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261115-class-selection-62\\references\\confirmed-policy-register.json",
+    "sha256": "19d484c3a09fa859beb8bb1e13c3a935ffe0b808e11a4b68f6fccf65e2ede2c8",
+    "bytes": 7727,
+    "lines": 243,
+    "read_ranges": [
+      [
+        1,
+        243
+      ]
+    ],
+    "evidence_ids": [
+      "REG62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261115-class-selection-62/references/confirmed-policy-supplements.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261115-class-selection-62\\references\\confirmed-policy-supplements.md",
+    "sha256": "0f81706eb59fb73dbf50e53710b39bbdfbdc9b838410af6a2a3358b0a27fc73b",
+    "bytes": 17943,
+    "lines": 196,
+    "read_ranges": [
+      [
+        59,
+        107
+      ]
+    ],
+    "evidence_ids": [
+      "SUP62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "runtime/liuren/20261115-class-selection-62/references/class-selection-trial.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261115-class-selection-62\\references\\class-selection-trial.md",
+    "sha256": "01229f7d0750bc9d8b2d8562b62e22bc53ffdd0eff10cbc0ca0cec42fadb423b",
+    "bytes": 5540,
+    "lines": 27,
+    "read_ranges": [
+      [
+        1,
+        27
+      ]
+    ],
+    "evidence_ids": [
+      "TR"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "书籍库/北海闲人/理法简易.txt",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\书籍库\\北海闲人\\理法简易.txt",
+    "sha256": "afd2707315061e9423d8d444e00c3e9cce497c304449be8c37bcdb0d5aa19279",
+    "bytes": 551140,
+    "lines": 6931,
+    "read_ranges": [
+      [
+        4901,
+        4923
+      ],
+      [
+        865,
+        897
+      ],
+      [
+        4011,
+        4019
+      ],
+      [
+        4651,
+        4665
+      ],
+      [
+        6053,
+        6061
+      ]
+    ],
+    "evidence_ids": [
+      "LF-SP03",
+      "LF-GHOST",
+      "LF-MARR",
+      "LF-FARM",
+      "LF-TIGER"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "书籍库/北海闲人/毕法赋全解-正式整理本.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\书籍库\\北海闲人\\毕法赋全解-正式整理本.md",
+    "sha256": "bbf276518dedf76bf282129b9a6521a98d7b664b86d64ea28538e47a72211bd6",
+    "bytes": 558000,
+    "lines": 4897,
+    "read_ranges": [
+      [
+        1233,
+        1245
+      ],
+      [
+        1259,
+        1275
+      ],
+      [
+        606,
+        618
+      ]
+    ],
+    "evidence_ids": [
+      "BF-SP04",
+      "BF-SP05",
+      "BF-TIGER"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "书籍库/经典古籍/佚名/壬归.txt",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\书籍库\\经典古籍\\佚名\\壬归.txt",
+    "sha256": "8d73a7545db29361db47fc65887f8238a4634c4449f52028ee35cabc093d3335",
+    "bytes": 95878,
+    "lines": 971,
+    "read_ranges": [
+      [
+        759,
+        769
+      ],
+      [
+        138,
+        146
+      ],
+      [
+        218,
+        230
+      ],
+      [
+        405,
+        413
+      ]
+    ],
+    "evidence_ids": [
+      "RG-SP03",
+      "RG-RESCUE",
+      "RG-GIVE"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "书籍库/经典古籍/明代/六壬指南注解-明-陈公献.txt",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\书籍库\\经典古籍\\明代\\六壬指南注解-明-陈公献.txt",
+    "sha256": "ca985cd0bbbe354e2ebff036bcd004878377c57343dd0d5d77291cfc5d518774",
+    "bytes": 308821,
+    "lines": 5504,
+    "read_ranges": [
+      [
+        973,
+        990
+      ]
+    ],
+    "evidence_ids": [
+      "ZN-NOTE"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "书籍库/经典古籍/明代/六壬指南-明-陈公献.txt",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\书籍库\\经典古籍\\明代\\六壬指南-明-陈公献.txt",
+    "sha256": "3e1c574e010be9542c0065c2973feafccc846828270e997eb12c3da9e02aeec3",
+    "bytes": 78033,
+    "lines": 1596,
+    "read_ranges": [
+      [
+        493,
+        507
+      ],
+      [
+        643,
+        645
+      ],
+      [
+        733,
+        735
+      ]
+    ],
+    "evidence_ids": [
+      "ZN-BASE"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "书籍库/北海闲人/六壬金针_修正版.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\书籍库\\北海闲人\\六壬金针_修正版.md",
+    "sha256": "8b6fd57f39d24c3b99bb86660363a8870c75bcb3dbe5cc292ffd7c76713db168",
+    "bytes": 322632,
+    "lines": 3059,
+    "read_ranges": [
+      [
+        901,
+        919
+      ],
+      [
+        2689,
+        2695
+      ]
+    ],
+    "evidence_ids": [
+      "JZ-GHOST",
+      "JZ-SUIT"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "output/liuren-class-selection-trial-56/before/tools/liuren-palace-strength.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\output\\liuren-class-selection-trial-56\\before\\tools\\liuren-palace-strength.mjs",
+    "sha256": "6e910661725e4e9fb2b7eed79b1e55e364c2edbe390d89fbf9a6f3b227de58d9",
+    "bytes": 12119,
+    "lines": 166,
+    "read_ranges": [
+      [
+        1,
+        166
+      ]
+    ],
+    "evidence_ids": [
+      "B55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "output/liuren-class-selection-trial-56/before/tools/liuren-strength-engine.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\output\\liuren-class-selection-trial-56\\before\\tools\\liuren-strength-engine.mjs",
+    "sha256": "f2aaeeb796fc7b9d063b911deab1fcadb50fc042d3502affe61bb57ebe44bc8d",
+    "bytes": 24351,
+    "lines": 325,
+    "read_ranges": [
+      [
+        1,
+        44
+      ],
+      [
+        147,
+        180
+      ],
+      [
+        268,
+        325
+      ]
+    ],
+    "evidence_ids": [
+      "E55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "output/liuren-class-selection-trial-56/before/tools/liuren-strength-profile.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\output\\liuren-class-selection-trial-56\\before\\tools\\liuren-strength-profile.json",
+    "sha256": "e2e43e3e6a16532460fc52c5bbfb3f820ede51a39c56b04e3079150466225749",
+    "bytes": 4918,
+    "lines": 181,
+    "read_ranges": [
+      [
+        1,
+        28
+      ],
+      [
+        80,
+        107
+      ]
+    ],
+    "evidence_ids": [
+      "P55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "output/liuren-class-selection-trial-56/before/tools/liuren-local-strength.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\output\\liuren-class-selection-trial-56\\before\\tools\\liuren-local-strength.mjs",
+    "sha256": "e329d1cd14508b0fca4e2c22c1bdfa663b9a02068c6c95f68092a268fcb315c3",
+    "bytes": 5726,
+    "lines": 92,
+    "read_ranges": [
+      [
+        1,
+        17
+      ],
+      [
+        60,
+        84
+      ]
+    ],
+    "evidence_ids": [
+      "N55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "output/liuren-class-selection-trial-56/before/tools/liuren-strength-rules.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\output\\liuren-class-selection-trial-56\\before\\tools\\liuren-strength-rules.mjs",
+    "sha256": "2b3a5fa5627db6bbf4d002e85b9fbeba24ddf330d0f7ee9b7af0ce5f61cbf8c4",
+    "bytes": 6962,
+    "lines": 111,
+    "read_ranges": [
+      [
+        1,
+        30
+      ],
+      [
+        60,
+        71
+      ]
+    ],
+    "evidence_ids": [
+      "R55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-strength-interpretation.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-strength-interpretation.mjs",
+    "sha256": "3a46812a945a5467c7ba5943c8d00c38620b285f97753920d3a40e9cf803dee0",
+    "bytes": 2092,
+    "lines": 22,
+    "read_ranges": [
+      [
+        1,
+        22
+      ]
+    ],
+    "evidence_ids": [
+      "I62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-trial-decision.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-trial-decision.mjs",
+    "sha256": "7d488e12ee973c56309b5d37ead62a1850187076c7d433a1380c0936d95a15c6",
+    "bytes": 8594,
+    "lines": 89,
+    "read_ranges": [
+      [
+        1,
+        89
+      ]
+    ],
+    "evidence_ids": [
+      "T62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-palace-strength.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-palace-strength.mjs",
+    "sha256": "b6b717b0fdc15bb201d96212a834fc664cc9d2ea5c6f36eadaf4c1e61a642cbc",
+    "bytes": 11930,
+    "lines": 161,
+    "read_ranges": [
+      [
+        1,
+        161
+      ]
+    ],
+    "evidence_ids": [
+      "B62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-chart-view.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-chart-view.mjs",
+    "sha256": "2c34013ac32f1af1e33d28c6951b508cc12b7bbeab388a4f2d92f9de35ec39d6",
+    "bytes": 13658,
+    "lines": 168,
+    "read_ranges": [
+      [
+        1,
+        168
+      ]
+    ],
+    "evidence_ids": [
+      "C62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-strength-engine.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-strength-engine.mjs",
+    "sha256": "f2aaeeb796fc7b9d063b911deab1fcadb50fc042d3502affe61bb57ebe44bc8d",
+    "bytes": 24351,
+    "lines": 325,
+    "read_ranges": [
+      [
+        1,
+        44
+      ],
+      [
+        147,
+        180
+      ],
+      [
+        268,
+        325
+      ]
+    ],
+    "evidence_ids": [
+      "E62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-strength-profile.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-strength-profile.json",
+    "sha256": "e2e43e3e6a16532460fc52c5bbfb3f820ede51a39c56b04e3079150466225749",
+    "bytes": 4918,
+    "lines": 181,
+    "read_ranges": [
+      [
+        1,
+        28
+      ],
+      [
+        80,
+        107
+      ]
+    ],
+    "evidence_ids": [
+      "P62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-local-strength.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-local-strength.mjs",
+    "sha256": "e329d1cd14508b0fca4e2c22c1bdfa663b9a02068c6c95f68092a268fcb315c3",
+    "bytes": 5726,
+    "lines": 92,
+    "read_ranges": [
+      [
+        1,
+        17
+      ],
+      [
+        60,
+        84
+      ]
+    ],
+    "evidence_ids": [
+      "N62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-strength-rules.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-strength-rules.mjs",
+    "sha256": "2b3a5fa5627db6bbf4d002e85b9fbeba24ddf330d0f7ee9b7af0ce5f61cbf8c4",
+    "bytes": 6962,
+    "lines": 111,
+    "read_ranges": [
+      [
+        1,
+        30
+      ],
+      [
+        60,
+        71
+      ]
+    ],
+    "evidence_ids": [
+      "R62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-strength.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-strength.mjs",
+    "sha256": "c4ec67405cf7fd3bd95c246f1cf4502b50a7a909651c09d7601991aa041264dc",
+    "bytes": 3346,
+    "lines": 47,
+    "read_ranges": [
+      [
+        1,
+        47
+      ]
+    ],
+    "evidence_ids": [
+      "RESEARCH"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-quantity-adjustment.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-quantity-adjustment.mjs",
+    "sha256": "a9c8816f3728f3271a29cc0254c4798c944f4c26868918b1d1f5896106eff268",
+    "bytes": 10163,
+    "lines": 104,
+    "read_ranges": [
+      [
+        1,
+        104
+      ]
+    ],
+    "evidence_ids": [
+      "QA62"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "output/liuren-class-selection-trial-56/before/tools/liuren-quantity-adjustment.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\output\\liuren-class-selection-trial-56\\before\\tools\\liuren-quantity-adjustment.mjs",
+    "sha256": "a9c8816f3728f3271a29cc0254c4798c944f4c26868918b1d1f5896106eff268",
+    "bytes": 10163,
+    "lines": 104,
+    "read_ranges": [
+      [
+        1,
+        104
+      ]
+    ],
+    "evidence_ids": [
+      "QA55"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-deterministic-io.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-deterministic-io.mjs",
+    "sha256": "f32d32b92b933acaba03b992a28a679bc6010de9de99d00ba39eb089fc0066bf",
+    "bytes": 20182,
+    "lines": 245,
+    "read_ranges": [
+      [
+        67,
+        104
+      ]
+    ],
+    "evidence_ids": [
+      "IO"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-core-handoff.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-core-handoff.mjs",
+    "sha256": "ca689cca468a0f19ca8f091e94e546ea09d645a28a8abb3f313d5d32b0953bee",
+    "bytes": 11713,
+    "lines": 123,
+    "read_ranges": [
+      [
+        30,
+        75
+      ]
+    ],
+    "evidence_ids": [
+      "HANDOFF"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "tools/liuren-codex.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-codex.mjs",
+    "sha256": "28369f59db78cf3ee4d5ffd33fa9abcda3490c32aa2ce1c91387a81817f67760",
+    "bytes": 21753,
+    "lines": 239,
+    "read_ranges": [
+      [
+        137,
+        162
+      ]
+    ],
+    "evidence_ids": [
+      "CODEX"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": ".opencode/plugins/liuren-adjudication.ts",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\.opencode\\plugins\\liuren-adjudication.ts",
+    "sha256": "12ee10d7b2fedf6ce5b84b232e86c30d6fd239d7cfbe99d55cc681ef9aa10794",
+    "bytes": 56311,
+    "lines": 446,
+    "read_ranges": [
+      [
+        164,
+        180
+      ],
+      [
+        271,
+        317
+      ]
+    ],
+    "evidence_ids": [
+      "PLUGIN"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": ".opencode/skills/liuren/daliuren/SKILL.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\.opencode\\skills\\liuren\\daliuren\\SKILL.md",
+    "sha256": "7867630ab97c303b3c5bbba874915ac10bf6477ffd9b0ec973197ecef7a435a3",
+    "bytes": 4062,
+    "lines": 24,
+    "read_ranges": [
+      [
+        1,
+        24
+      ]
+    ],
+    "evidence_ids": [
+      "OSKILL"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "integrations/codex/daliuren-codex/SKILL.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\integrations\\codex\\daliuren-codex\\SKILL.md",
+    "sha256": "36b25fec9cf527ca63ee308a070747acf484792ca86733a62742ff644d30f1bc",
+    "bytes": 4067,
+    "lines": 24,
+    "read_ranges": [
+      [
+        1,
+        24
+      ]
+    ],
+    "evidence_ids": [
+      "CSKILL"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "docs/确定性工具使用说明-35.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\docs\\确定性工具使用说明-35.md",
+    "sha256": "c7a24e46036487e56e7c7956a0f500c5301b695f9fa25d1b32aa565daac74772",
+    "bytes": 6539,
+    "lines": 107,
+    "read_ranges": [
+      [
+        1,
+        107
+      ]
+    ],
+    "evidence_ids": [
+      "DOC35"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "README.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\README.md",
+    "sha256": "2a69919a5f9d216468222d419194bd6c0071e996bdbe7b1e4d795a81af5c3cb4",
+    "bytes": 7190,
+    "lines": 62,
+    "read_ranges": [
+      [
+        1,
+        62
+      ]
+    ],
+    "evidence_ids": [
+      "READ"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "目录总索引.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\目录总索引.md",
+    "sha256": "372ab66b4da2f197d1b821c3c3fae5637ca1f4ab5c8755f57cfe2f7aa92afcde",
+    "bytes": 3976,
+    "lines": 27,
+    "read_ranges": [
+      [
+        1,
+        27
+      ]
+    ],
+    "evidence_ids": [
+      "INDEX"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "output/liuren-architecture-phase1-20261116/06-未解冲突与外审决策清单.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\output\\liuren-architecture-phase1-20261116\\06-未解冲突与外审决策清单.md",
+    "sha256": "6dc3da8c4a3ac9744f20cf1f3030f79b477a6bef33807e6e33b44f2b5e007db4",
+    "bytes": 4333,
+    "lines": 27,
+    "read_ranges": [
+      [
+        1,
+        12
+      ]
+    ],
+    "evidence_ids": [
+      "TASK"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "docs/六壬知识整理-20261102/README.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\docs\\六壬知识整理-20261102\\README.md",
+    "sha256": "dab9a35fd6cb1277ae527fa4b89da1a3f341de2492ab86ca203938ff2f25ef1a",
+    "bytes": 5617,
+    "lines": 53,
+    "read_ranges": [
+      [
+        1,
+        53
+      ]
+    ],
+    "evidence_ids": [
+      "KN-README"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "docs/六壬知识整理-20261102/数据约定.md",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\docs\\六壬知识整理-20261102\\数据约定.md",
+    "sha256": "528ea12eafa454e99eb78db0a42031427e404097810c3c9b57180a809310790c",
+    "bytes": 4927,
+    "lines": 63,
+    "read_ranges": [
+      [
+        1,
+        63
+      ]
+    ],
+    "evidence_ids": [
+      "KN-DATA"
+    ],
+    "read_mode": "定向范围/全文见read_ranges；整文件哈希不代表全文语义精读"
+  },
+  {
+    "path": "opencode.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\opencode.json",
+    "sha256": "84ea8e0da34bbdd94f5e7c27fcb06c13c7c2fbf10fddb745dbfcd3802ba490f9",
+    "bytes": 21547,
+    "lines": 281,
+    "read_mode": "仅agent.liuren.description/prompt字段；其他字段不作证据",
+    "read_ranges": [
+      [
+        52,
+        52
+      ],
+      [
+        53,
+        53
+      ]
+    ],
+    "evidence_ids": [
+      "PROMPT"
+    ]
+  },
+  {
+    "path": "output/liuren-class-selection-trial-56/before/.opencode/liuren-active.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\output\\liuren-class-selection-trial-56\\before\\.opencode\\liuren-active.json",
+    "sha256": "6d6aafef1ad44441aea55f11eff1be93bdb9b8e6fe434b235f84b12c06bb6c88",
+    "read_mode": "结构读取release/runtime/workflowImplementation/strengthInterpretation；不作理论来源"
+  },
+  {
+    "path": "output/liuren-class-selection-trial-56/before/tools/liuren-local-strength-profile.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\output\\liuren-class-selection-trial-56\\before\\tools\\liuren-local-strength-profile.json",
+    "sha256": "335f043784df24ec6a415653c1ca7e76ea454517999f769bd56fd77fe86d67cc",
+    "read_mode": "仅字节哈希/绑定核对；未据此称为正文精读"
+  },
+  {
+    "path": "output/liuren-class-selection-trial-56/before/tools/liuren-chart-view.mjs",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\output\\liuren-class-selection-trial-56\\before\\tools\\liuren-chart-view.mjs",
+    "sha256": "0de1ae9f5358e3615bfd6597c90cffd5db6c59571b7dc7ce0f890b0bfb36bb5c",
+    "read_mode": "仅字节哈希/绑定核对；未据此称为正文精读"
+  },
+  {
+    "path": "runtime/liuren/20261114-tool-reliability-55/manifest.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261114-tool-reliability-55\\manifest.json",
+    "sha256": "4f3c113ec7daa7c781e3b38fe7cfcadda1eebf3c0cd34951df844aa0647ed6f4",
+    "read_mode": "只读取已引用文件哈希声明"
+  },
+  {
+    "path": ".opencode/liuren-active.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\.opencode\\liuren-active.json",
+    "sha256": "4a000c9fd6b5757725364bd277b5487466a6573a73390848e87dd792d2fc0982",
+    "read_mode": "结构读取release/runtime/workflowImplementation/strengthInterpretation；不作理论来源"
+  },
+  {
+    "path": "tools/liuren-local-strength-profile.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\tools\\liuren-local-strength-profile.json",
+    "sha256": "335f043784df24ec6a415653c1ca7e76ea454517999f769bd56fd77fe86d67cc",
+    "read_mode": "仅字节哈希/绑定核对；未据此称为正文精读"
+  },
+  {
+    "path": "runtime/liuren/20261115-class-selection-62/manifest.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261115-class-selection-62\\manifest.json",
+    "sha256": "df3ade0c00ff285ede87f9e6533350d768205c8c719c5c2b3b70667ef8c5cbb3",
+    "read_mode": "只读取已引用文件哈希声明"
+  },
+  {
+    "path": "runtime/liuren/20261115-class-selection-62/references/adjudicator-book-evidence.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261115-class-selection-62\\references\\adjudicator-book-evidence.json",
+    "sha256": "bb56d110ecee98ee6f21e9d8dfa9ff59bf08139807e3c87744afb7391f1db60f",
+    "read_mode": "只选E09/E10/E14/E15/E20/E21/E22；不遍读其他记录"
+  },
+  {
+    "path": "runtime/liuren/20261114-tool-reliability-55/references/confirmed-policy-evidence.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261114-tool-reliability-55\\references\\confirmed-policy-evidence.json",
+    "sha256": "d2049fcea9d7971fb383bfa970a9d38f7a7602258b01ab4ddbcabfd4ee07b16c",
+    "read_mode": "仅读取SP03/04/05条目、并做字节版本比较"
+  },
+  {
+    "path": "runtime/liuren/20261115-class-selection-62/references/confirmed-policy-evidence.json",
+    "absolute_path": "C:\\Users\\QLMa_\\Documents\\六壬八字测算\\runtime\\liuren\\20261115-class-selection-62\\references\\confirmed-policy-evidence.json",
+    "sha256": "d2049fcea9d7971fb383bfa970a9d38f7a7602258b01ab4ddbcabfd4ee07b16c",
+    "read_mode": "仅读取SP03/04/05条目、并做字节版本比较"
+  }
+]

@@ -1,0 +1,328 @@
+[
+  {
+    "version": "55",
+    "kind": "tool",
+    "pointer": "output/liuren-class-selection-trial-56/before/.opencode/liuren-active.json",
+    "declared_release": "20261114-tool-reliability-55",
+    "logical_path": "tools/liuren-palace-strength.mjs",
+    "actual_path": "output/liuren-class-selection-trial-56/before/tools/liuren-palace-strength.mjs",
+    "expected_sha256": "6e910661725e4e9fb2b7eed79b1e55e364c2edbe390d89fbf9a6f3b227de58d9",
+    "actual_sha256": "6e910661725e4e9fb2b7eed79b1e55e364c2edbe390d89fbf9a6f3b227de58d9",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "tool",
+    "pointer": "output/liuren-class-selection-trial-56/before/.opencode/liuren-active.json",
+    "declared_release": "20261114-tool-reliability-55",
+    "logical_path": "tools/liuren-strength-engine.mjs",
+    "actual_path": "output/liuren-class-selection-trial-56/before/tools/liuren-strength-engine.mjs",
+    "expected_sha256": "f2aaeeb796fc7b9d063b911deab1fcadb50fc042d3502affe61bb57ebe44bc8d",
+    "actual_sha256": "f2aaeeb796fc7b9d063b911deab1fcadb50fc042d3502affe61bb57ebe44bc8d",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "tool",
+    "pointer": "output/liuren-class-selection-trial-56/before/.opencode/liuren-active.json",
+    "declared_release": "20261114-tool-reliability-55",
+    "logical_path": "tools/liuren-strength-rules.mjs",
+    "actual_path": "output/liuren-class-selection-trial-56/before/tools/liuren-strength-rules.mjs",
+    "expected_sha256": "2b3a5fa5627db6bbf4d002e85b9fbeba24ddf330d0f7ee9b7af0ce5f61cbf8c4",
+    "actual_sha256": "2b3a5fa5627db6bbf4d002e85b9fbeba24ddf330d0f7ee9b7af0ce5f61cbf8c4",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "tool",
+    "pointer": "output/liuren-class-selection-trial-56/before/.opencode/liuren-active.json",
+    "declared_release": "20261114-tool-reliability-55",
+    "logical_path": "tools/liuren-strength-profile.json",
+    "actual_path": "output/liuren-class-selection-trial-56/before/tools/liuren-strength-profile.json",
+    "expected_sha256": "e2e43e3e6a16532460fc52c5bbfb3f820ede51a39c56b04e3079150466225749",
+    "actual_sha256": "e2e43e3e6a16532460fc52c5bbfb3f820ede51a39c56b04e3079150466225749",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "tool",
+    "pointer": "output/liuren-class-selection-trial-56/before/.opencode/liuren-active.json",
+    "declared_release": "20261114-tool-reliability-55",
+    "logical_path": "tools/liuren-local-strength.mjs",
+    "actual_path": "output/liuren-class-selection-trial-56/before/tools/liuren-local-strength.mjs",
+    "expected_sha256": "e329d1cd14508b0fca4e2c22c1bdfa663b9a02068c6c95f68092a268fcb315c3",
+    "actual_sha256": "e329d1cd14508b0fca4e2c22c1bdfa663b9a02068c6c95f68092a268fcb315c3",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "tool",
+    "pointer": "output/liuren-class-selection-trial-56/before/.opencode/liuren-active.json",
+    "declared_release": "20261114-tool-reliability-55",
+    "logical_path": "tools/liuren-local-strength-profile.json",
+    "actual_path": "output/liuren-class-selection-trial-56/before/tools/liuren-local-strength-profile.json",
+    "expected_sha256": "335f043784df24ec6a415653c1ca7e76ea454517999f769bd56fd77fe86d67cc",
+    "actual_sha256": "335f043784df24ec6a415653c1ca7e76ea454517999f769bd56fd77fe86d67cc",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "tool",
+    "pointer": "output/liuren-class-selection-trial-56/before/.opencode/liuren-active.json",
+    "declared_release": "20261114-tool-reliability-55",
+    "logical_path": "tools/liuren-quantity-adjustment.mjs",
+    "actual_path": "output/liuren-class-selection-trial-56/before/tools/liuren-quantity-adjustment.mjs",
+    "expected_sha256": "a9c8816f3728f3271a29cc0254c4798c944f4c26868918b1d1f5896106eff268",
+    "actual_sha256": "a9c8816f3728f3271a29cc0254c4798c944f4c26868918b1d1f5896106eff268",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "tool",
+    "pointer": "output/liuren-class-selection-trial-56/before/.opencode/liuren-active.json",
+    "declared_release": "20261114-tool-reliability-55",
+    "logical_path": "tools/liuren-chart-view.mjs",
+    "actual_path": "output/liuren-class-selection-trial-56/before/tools/liuren-chart-view.mjs",
+    "expected_sha256": "0de1ae9f5358e3615bfd6597c90cffd5db6c59571b7dc7ce0f890b0bfb36bb5c",
+    "actual_sha256": "0de1ae9f5358e3615bfd6597c90cffd5db6c59571b7dc7ce0f890b0bfb36bb5c",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261114-tool-reliability-55/manifest.json",
+    "logical_path": "references/judgment-core.md",
+    "actual_path": "runtime/liuren/20261114-tool-reliability-55/references/judgment-core.md",
+    "expected_sha256": "588366809c301bdde24ca5969e09bfbf4ae93550bf85d1dec1139226e7686a19",
+    "actual_sha256": "588366809c301bdde24ca5969e09bfbf4ae93550bf85d1dec1139226e7686a19",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261114-tool-reliability-55/manifest.json",
+    "logical_path": "methods/liqi.md",
+    "actual_path": "runtime/liuren/20261114-tool-reliability-55/methods/liqi.md",
+    "expected_sha256": "8b016186ef016157c9f88f8c209291ee014d5a90fc4f3f89f97826894e6672d8",
+    "actual_sha256": "8b016186ef016157c9f88f8c209291ee014d5a90fc4f3f89f97826894e6672d8",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261114-tool-reliability-55/manifest.json",
+    "logical_path": "references/quantity-strength.md",
+    "actual_path": "runtime/liuren/20261114-tool-reliability-55/references/quantity-strength.md",
+    "expected_sha256": "89cf003d429338e203ca94173b299b0b85c16bdb5399b75f4a9b8bb5196d900f",
+    "actual_sha256": "89cf003d429338e203ca94173b299b0b85c16bdb5399b75f4a9b8bb5196d900f",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261114-tool-reliability-55/manifest.json",
+    "logical_path": "references/quantity-correction.md",
+    "actual_path": "runtime/liuren/20261114-tool-reliability-55/references/quantity-correction.md",
+    "expected_sha256": "661b54740c1124ad22f0d77d28596449670d231bee265af700616f0f64b497ff",
+    "actual_sha256": "661b54740c1124ad22f0d77d28596449670d231bee265af700616f0f64b497ff",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261114-tool-reliability-55/manifest.json",
+    "logical_path": "entry.md",
+    "actual_path": "runtime/liuren/20261114-tool-reliability-55/entry.md",
+    "expected_sha256": "5b075a392de4d6a2b3eabdd5d4f767944c4841f9e483918163a0fc441d85bac2",
+    "actual_sha256": "5b075a392de4d6a2b3eabdd5d4f767944c4841f9e483918163a0fc441d85bac2",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261114-tool-reliability-55/manifest.json",
+    "logical_path": "references/confirmed-policy-register.json",
+    "actual_path": "runtime/liuren/20261114-tool-reliability-55/references/confirmed-policy-register.json",
+    "expected_sha256": "1449cd111922fbdaab14f6779fc5686641e66bad04b67aaa30b4608801cd9f65",
+    "actual_sha256": "1449cd111922fbdaab14f6779fc5686641e66bad04b67aaa30b4608801cd9f65",
+    "match": true
+  },
+  {
+    "version": "55",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261114-tool-reliability-55/manifest.json",
+    "logical_path": "references/confirmed-policy-supplements.md",
+    "actual_path": "runtime/liuren/20261114-tool-reliability-55/references/confirmed-policy-supplements.md",
+    "expected_sha256": "0f81706eb59fb73dbf50e53710b39bbdfbdc9b838410af6a2a3358b0a27fc73b",
+    "actual_sha256": "0f81706eb59fb73dbf50e53710b39bbdfbdc9b838410af6a2a3358b0a27fc73b",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "tool",
+    "pointer": ".opencode/liuren-active.json",
+    "declared_release": "20261115-class-selection-62",
+    "logical_path": "tools/liuren-palace-strength.mjs",
+    "actual_path": "tools/liuren-palace-strength.mjs",
+    "expected_sha256": "b6b717b0fdc15bb201d96212a834fc664cc9d2ea5c6f36eadaf4c1e61a642cbc",
+    "actual_sha256": "b6b717b0fdc15bb201d96212a834fc664cc9d2ea5c6f36eadaf4c1e61a642cbc",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "tool",
+    "pointer": ".opencode/liuren-active.json",
+    "declared_release": "20261115-class-selection-62",
+    "logical_path": "tools/liuren-strength-engine.mjs",
+    "actual_path": "tools/liuren-strength-engine.mjs",
+    "expected_sha256": "f2aaeeb796fc7b9d063b911deab1fcadb50fc042d3502affe61bb57ebe44bc8d",
+    "actual_sha256": "f2aaeeb796fc7b9d063b911deab1fcadb50fc042d3502affe61bb57ebe44bc8d",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "tool",
+    "pointer": ".opencode/liuren-active.json",
+    "declared_release": "20261115-class-selection-62",
+    "logical_path": "tools/liuren-strength-rules.mjs",
+    "actual_path": "tools/liuren-strength-rules.mjs",
+    "expected_sha256": "2b3a5fa5627db6bbf4d002e85b9fbeba24ddf330d0f7ee9b7af0ce5f61cbf8c4",
+    "actual_sha256": "2b3a5fa5627db6bbf4d002e85b9fbeba24ddf330d0f7ee9b7af0ce5f61cbf8c4",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "tool",
+    "pointer": ".opencode/liuren-active.json",
+    "declared_release": "20261115-class-selection-62",
+    "logical_path": "tools/liuren-strength-profile.json",
+    "actual_path": "tools/liuren-strength-profile.json",
+    "expected_sha256": "e2e43e3e6a16532460fc52c5bbfb3f820ede51a39c56b04e3079150466225749",
+    "actual_sha256": "e2e43e3e6a16532460fc52c5bbfb3f820ede51a39c56b04e3079150466225749",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "tool",
+    "pointer": ".opencode/liuren-active.json",
+    "declared_release": "20261115-class-selection-62",
+    "logical_path": "tools/liuren-local-strength.mjs",
+    "actual_path": "tools/liuren-local-strength.mjs",
+    "expected_sha256": "e329d1cd14508b0fca4e2c22c1bdfa663b9a02068c6c95f68092a268fcb315c3",
+    "actual_sha256": "e329d1cd14508b0fca4e2c22c1bdfa663b9a02068c6c95f68092a268fcb315c3",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "tool",
+    "pointer": ".opencode/liuren-active.json",
+    "declared_release": "20261115-class-selection-62",
+    "logical_path": "tools/liuren-local-strength-profile.json",
+    "actual_path": "tools/liuren-local-strength-profile.json",
+    "expected_sha256": "335f043784df24ec6a415653c1ca7e76ea454517999f769bd56fd77fe86d67cc",
+    "actual_sha256": "335f043784df24ec6a415653c1ca7e76ea454517999f769bd56fd77fe86d67cc",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "tool",
+    "pointer": ".opencode/liuren-active.json",
+    "declared_release": "20261115-class-selection-62",
+    "logical_path": "tools/liuren-quantity-adjustment.mjs",
+    "actual_path": "tools/liuren-quantity-adjustment.mjs",
+    "expected_sha256": "a9c8816f3728f3271a29cc0254c4798c944f4c26868918b1d1f5896106eff268",
+    "actual_sha256": "a9c8816f3728f3271a29cc0254c4798c944f4c26868918b1d1f5896106eff268",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "tool",
+    "pointer": ".opencode/liuren-active.json",
+    "declared_release": "20261115-class-selection-62",
+    "logical_path": "tools/liuren-chart-view.mjs",
+    "actual_path": "tools/liuren-chart-view.mjs",
+    "expected_sha256": "2c34013ac32f1af1e33d28c6951b508cc12b7bbeab388a4f2d92f9de35ec39d6",
+    "actual_sha256": "2c34013ac32f1af1e33d28c6951b508cc12b7bbeab388a4f2d92f9de35ec39d6",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261115-class-selection-62/manifest.json",
+    "logical_path": "references/judgment-core.md",
+    "actual_path": "runtime/liuren/20261115-class-selection-62/references/judgment-core.md",
+    "expected_sha256": "e90d836c9a895e1653fecda985457d2f27bf54ca6051fa6c263b5a432531356d",
+    "actual_sha256": "e90d836c9a895e1653fecda985457d2f27bf54ca6051fa6c263b5a432531356d",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261115-class-selection-62/manifest.json",
+    "logical_path": "methods/liqi.md",
+    "actual_path": "runtime/liuren/20261115-class-selection-62/methods/liqi.md",
+    "expected_sha256": "8b016186ef016157c9f88f8c209291ee014d5a90fc4f3f89f97826894e6672d8",
+    "actual_sha256": "8b016186ef016157c9f88f8c209291ee014d5a90fc4f3f89f97826894e6672d8",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261115-class-selection-62/manifest.json",
+    "logical_path": "references/quantity-strength.md",
+    "actual_path": "runtime/liuren/20261115-class-selection-62/references/quantity-strength.md",
+    "expected_sha256": "89cf003d429338e203ca94173b299b0b85c16bdb5399b75f4a9b8bb5196d900f",
+    "actual_sha256": "89cf003d429338e203ca94173b299b0b85c16bdb5399b75f4a9b8bb5196d900f",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261115-class-selection-62/manifest.json",
+    "logical_path": "references/quantity-correction.md",
+    "actual_path": "runtime/liuren/20261115-class-selection-62/references/quantity-correction.md",
+    "expected_sha256": "661b54740c1124ad22f0d77d28596449670d231bee265af700616f0f64b497ff",
+    "actual_sha256": "661b54740c1124ad22f0d77d28596449670d231bee265af700616f0f64b497ff",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261115-class-selection-62/manifest.json",
+    "logical_path": "entry.md",
+    "actual_path": "runtime/liuren/20261115-class-selection-62/entry.md",
+    "expected_sha256": "7867630ab97c303b3c5bbba874915ac10bf6477ffd9b0ec973197ecef7a435a3",
+    "actual_sha256": "7867630ab97c303b3c5bbba874915ac10bf6477ffd9b0ec973197ecef7a435a3",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261115-class-selection-62/manifest.json",
+    "logical_path": "references/confirmed-policy-register.json",
+    "actual_path": "runtime/liuren/20261115-class-selection-62/references/confirmed-policy-register.json",
+    "expected_sha256": "19d484c3a09fa859beb8bb1e13c3a935ffe0b808e11a4b68f6fccf65e2ede2c8",
+    "actual_sha256": "19d484c3a09fa859beb8bb1e13c3a935ffe0b808e11a4b68f6fccf65e2ede2c8",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261115-class-selection-62/manifest.json",
+    "logical_path": "references/confirmed-policy-supplements.md",
+    "actual_path": "runtime/liuren/20261115-class-selection-62/references/confirmed-policy-supplements.md",
+    "expected_sha256": "0f81706eb59fb73dbf50e53710b39bbdfbdc9b838410af6a2a3358b0a27fc73b",
+    "actual_sha256": "0f81706eb59fb73dbf50e53710b39bbdfbdc9b838410af6a2a3358b0a27fc73b",
+    "match": true
+  },
+  {
+    "version": "62",
+    "kind": "runtime",
+    "pointer": "runtime/liuren/20261115-class-selection-62/manifest.json",
+    "logical_path": "references/class-selection-trial.md",
+    "actual_path": "runtime/liuren/20261115-class-selection-62/references/class-selection-trial.md",
+    "expected_sha256": "01229f7d0750bc9d8b2d8562b62e22bc53ffdd0eff10cbc0ca0cec42fadb423b",
+    "actual_sha256": "01229f7d0750bc9d8b2d8562b62e22bc53ffdd0eff10cbc0ca0cec42fadb423b",
+    "match": true
+  }
+]

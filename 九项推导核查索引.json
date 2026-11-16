@@ -1,0 +1,83 @@
+[
+  {
+    "id": "D01",
+    "chain": "旺鬼 → 危害减轻",
+    "file_evidence": "**DIRECT / VERSION_DIFF**：55“凶神旺时可…贪荣”，62明确“默认不以侵害为主”；trial明写“默认凶害减轻”，入口删了“默认”。[U55 L85](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261114-tool-reliability-55/references/judgment-core.md:85>)、[U62 L85](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261115-class-selection-62/references/judgment-core.md:85>)、[TR L15](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261115-class-selection-62/references/class-selection-trial.md:15>)、[EN62 L20](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261115-class-selection-62/entry.md:20>)。",
+    "conditions": "SP04的当时=四时旺气，暂不害/后患；SP03按出行、仕庶、乘将及发用分支。宽泛喜旺恶衰也真实存在。[BF-SP04 L1235—1245](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/毕法赋全解-正式整理本.md:1235>)、[LF-SP03 L4913—4923](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/理法简易.txt:4913>)。",
+    "opposing_text": "旺鬼禁日、凶将发用不宜动；“凶神旺相事必凶”是相反文字。[RG-SP03 L765](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/经典古籍/佚名/壬归.txt:765>)、[ZN-BASE L733—735](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/经典古籍/明代/六壬指南-明-陈公献.txt:733>)。",
+    "audit_status": "不属于全由模型创造的链，来源/版本都有肯定文字；把它无条件推广为每一对象每一问题减害，则是未获证的延伸。**PENDING**：正式统一默认及例外由外审定，本轮不新准无条件链。",
+    "observed_model_execution": "PENDING; not reviewed"
+  },
+  {
+    "id": "D02",
+    "chain": "衰鬼 → 凶态显现",
+    "file_evidence": "**DIRECT**：55“衰败时凶态可加重”，62“衰败凶态显”；SP03凶神衰凶大、SP04夏秋衰后患、金针衰有凶。[U55 L85](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261114-tool-reliability-55/references/judgment-core.md:85>)、[U62 L85](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261115-class-selection-62/references/judgment-core.md:85>)、[BF-SP04 L1237—1245](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/毕法赋全解-正式整理本.md:1237>)、[JZ-GHOST L913](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/六壬金针_修正版.md:913>)。",
+    "conditions": "原文有贪荣时段、制/空、受者与救神等条件。62包装低于5统一落入“衰鬼不利仍须保留”分支，这是工程分类，非古籍统一阈值。",
+    "opposing_text": "金针有身旺/子孙不凶、有制后来没事；《壬归》有末制反吉。[JZ-GHOST L907—916](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/六壬金针_修正版.md:907>)、[RG-RESCUE L146](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/经典古籍/佚名/壬归.txt:146>)。",
+    "audit_status": "来源可支持相应凶态趋势，不能直接推出每题失败，也不能把“不许以弱免害”升级为“低零必害”。该升级属 **MODEL_INFERENCE**，正式阈值化 **PENDING**。",
+    "observed_model_execution": "PENDING; not reviewed"
+  },
+  {
+    "id": "D03",
+    "chain": "旺鬼 → 日干受害程度下降",
+    "file_evidence": "**DIRECT**：SP04明说“不来害我”“不来克我”，所以不能说完全没有受事者文字；62工具明给减害，但没有现实伤害量。[BF-SP04 L1235—1241](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/毕法赋全解-正式整理本.md:1235>)、[T62 L61](<C:/Users/QLMa_/Documents/六壬八字测算/tools/liuren-trial-decision.mjs:61>)。",
+    "conditions": "必须分清定性当时不害、阻行等具体害，以及现代分值。原文没有统一“鬼综合指数每升一分，日干损害递减”的函数。",
+    "opposing_text": "鬼旺禁日、受别处生凶炽；旧harm由源月气查系数，非综合分单调函数。[LF-GHOST L867—897](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/理法简易.txt:867>)、[E62 L274—279](<C:/Users/QLMa_/Documents/六壬八字测算/tools/liuren-strength-engine.mjs:274>)。",
+    "audit_status": "在SP04相应描述中有直接支持；跨所有“害”、跨月气与综合分、跨所有受者的量化下降均 **PENDING**，不可用D01自动证明本条全部版本。",
+    "observed_model_execution": "PENDING; not reviewed"
+  },
+  {
+    "id": "D04",
+    "chain": "日干评分下降 → 身弱",
+    "file_evidence": "**DIRECT：禁止文字**：62拒旺鬼扣身分→改称身弱→判凶，并称负增量只指计算下降。[TR L16](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261115-class-selection-62/references/class-selection-trial.md:16>)、[I62 L18](<C:/Users/QLMa_/Documents/六壬八字测算/tools/liuren-strength-interpretation.mjs:18>)、[T62 L20](<C:/Users/QLMa_/Documents/六壬八字测算/tools/liuren-trial-decision.mjs:20>)。55没有相同整句，但要求指数不是吉凶/弱非无作用。[U55 L33—49](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261114-tool-reliability-55/references/judgment-core.md:33>)。",
+    "conditions": "delta是相对变化，弱是绝对状态或专业术语；下降不证明跨入某弱档。即使跨档，等不等于原书“身衰”还缺映射。",
+    "opposing_text": "例如8降至6仍在62较旺档，仅为分段定义的算术说明，不是真实盘/效果测试；以此说明变化量≠档位是 **MODEL_INFERENCE**。",
+    "audit_status": "未找到“任何下降都叫身弱”的肯定正式条文。将下降直接改称身弱属未获证延伸；其实际模型发生与专业身衰阈值均 **PENDING**。",
+    "observed_model_execution": "PENDING; not reviewed"
+  },
+  {
+    "id": "D05",
+    "chain": "身弱 → 事情失败",
+    "file_evidence": "**DIRECT**：SP05有具体取财不利；金针讼段有更宽泛的败凶强语，不能隐去。版本核心拒绝弱即无作用，trial不以低分裁失败。[BF-SP05 L1261—1275](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/毕法赋全解-正式整理本.md:1261>)、[JZ-SUIT L2695](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/六壬金针_修正版.md:2695>)、[U55 L33—37](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261114-tool-reliability-55/references/judgment-core.md:33>)、[TR L20—23](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261115-class-selection-62/references/class-selection-trial.md:20>)。",
+    "conditions": "SP05需财局、当令、身财及将等条件；“身弱”不等于所有对象弱，也不等于任何弱档分数。",
+    "opposing_text": "贱售仍有交易；父母化官/子孙制鬼可胜或减轻；核心按关键障碍定结果。[BF-SP05 L1269](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/毕法赋全解-正式整理本.md:1269>)、[JZ-SUIT L2689—2692](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/六壬金针_修正版.md:2689>)。",
+    "audit_status": "无条件“身弱万事失败”不能由SP05证明；把作者宽泛强语转为现代所有事件开关没有完成证成，正式通用化 **PENDING**，不擅自删改原强语。",
+    "observed_model_execution": "PENDING; not reviewed"
+  },
+  {
+    "id": "D06",
+    "chain": "财旺 → 求财必然有利",
+    "file_evidence": "未找到本轮核心肯定这一**无条件**链；SP05反对只凭财旺。数量规则明说财旺可为货物/竞买者多。[BF-SP05 L1261—1275](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/毕法赋全解-正式整理本.md:1261>)、[QS62 L21](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261115-class-selection-62/references/quantity-strength.md:21>)。",
+    "conditions": "SP05也确有身旺财旺可拼搏获财的肯定，但不是只有财旺一个条件。财为货、财量、本人所得须辨。",
+    "opposing_text": "“传财太旺返财亏”、财旺与自己无关、生气伤反损；与62“本项偏有利”并存，后者不是求财必得。[BF-SP05 L1261—1275](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/毕法赋全解-正式整理本.md:1261>)、[T62 L54](<C:/Users/QLMa_/Documents/六壬八字测算/tools/liuren-trial-decision.mjs:54>)。",
+    "audit_status": "无条件链若由模型给出属于未获证延伸；特定身财条件可按原文候外审确认。**PENDING**：宽泛默认与该场景怎样排序。",
+    "observed_model_execution": "PENDING; not reviewed"
+  },
+  {
+    "id": "D07",
+    "chain": "对象低分或零分 → 对象无效",
+    "file_evidence": "**DIRECT / VERSION_DIFF / PROGRAM_INTERPRETATION**：55的零分标签是“本计算无有效力量”，不是审计者杜撰；同表1—2.5明写仍有作用，2.5—5可发挥。62改零为模型下限并否定低分失用。[B55 L10—21](<C:/Users/QLMa_/Documents/六壬八字测算/output/liuren-class-selection-trial-56/before/tools/liuren-palace-strength.mjs:10>)、[I62 L3—17](<C:/Users/QLMa_/Documents/六壬八字测算/tools/liuren-strength-interpretation.mjs:3>)。",
+    "conditions": "55标签带“本计算”限定；它没有明写所有低分对象全部无效。计算中0可使本步某项数值贡献为0，不能越界等同全部专法作用消失。",
+    "opposing_text": "两版核心弱不等无作用、2.5非失用开关；金针鬼衰反凶。[U55 L33—49](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261114-tool-reliability-55/references/judgment-core.md:33>)、[U62 L33—49](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261115-class-selection-62/references/judgment-core.md:33>)、[JZ-GHOST L913](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/六壬金针_修正版.md:913>)。",
+    "audit_status": "须承认55显示的效力措辞与核心限制存在张力；不把它解释成已经获准的全盘“无效开关”。62已否定这种开关；旧标签的专业含义仍 **PENDING** 给外审。",
+    "observed_model_execution": "PENDING; not reviewed"
+  },
+  {
+    "id": "D08",
+    "chain": "对象衰弱 → 对象不能产生作用",
+    "file_evidence": "55旧标签只对极弱说“通常难以独立显著”，其他低档明写有作用；两版核心否定弱即无作用。[B55 L12—14](<C:/Users/QLMa_/Documents/六壬八字测算/output/liuren-class-selection-trial-56/before/tools/liuren-palace-strength.mjs:12>)、[U55 L33](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261114-tool-reliability-55/references/judgment-core.md:33>)、[U62 L33](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261115-class-selection-62/references/judgment-core.md:33>)。",
+    "conditions": "“难以独立显著”不是绝对不能；作用大小、性质及兑现不是同一命题。",
+    "opposing_text": "衰鬼缠身、衰凶大、贱售等均不等于无事件。[LF-SP03 L4917—4919](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/理法简易.txt:4917>)、[BF-SP05 L1269](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/毕法赋全解-正式整理本.md:1269>)。",
+    "audit_status": "全称不能作用的链未获原文支持，现版还明确禁止；若出现该句须区分具体来源条件与模型延伸，实际发生 **PENDING**。",
+    "observed_model_execution": "PENDING; not reviewed"
+  },
+  {
+    "id": "D09",
+    "chain": "对象旺盛 → 对求测者必然有利",
+    "file_evidence": "两版核心明确“旺…不等于有益或兑现”；62局部包装“偏有利”，且final_verdict为null。[U55 L33](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261114-tool-reliability-55/references/judgment-core.md:33>)、[U62 L33](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261115-class-selection-62/references/judgment-core.md:33>)、[T62 L54—70](<C:/Users/QLMa_/Documents/六壬八字测算/tools/liuren-trial-decision.mjs:54>)。",
+    "conditions": "北海确有无论神将六亲先有三分吉气、旺则吉等宽泛文字，不能为否定全称而删去。它们没有证明现代每对象高分均给本人净利。",
+    "opposing_text": "旺鬼禁日、受生助凶、收获后灾、财旺与己无关；liqi欲脱散与欲进取渐无气意义相反。[LF-GHOST L867—897](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/理法简易.txt:867>)、[LF-FARM L4659—4663](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/理法简易.txt:4659>)、[BF-SP05 L1275](<C:/Users/QLMa_/Documents/六壬八字测算/书籍库/北海闲人/毕法赋全解-正式整理本.md:1275>)、[L62 L29](<C:/Users/QLMa_/Documents/六壬八字测算/runtime/liuren/20261115-class-selection-62/methods/liqi.md:29>)。",
+    "audit_status": "无条件“必然对本人有利”未被现行核心批准；把局部倾向升级为本人净利属跨层 **MODEL_INFERENCE**。如何保留原文宽泛趋势而不越层，由外审 **PENDING**。",
+    "observed_model_execution": "PENDING; not reviewed"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "file": "55-62只读差异.patch",
+    "sha256": "0131ab6758c989acade413a19685276c149ffeafa5dcff0f1fdc59d0bb36326c",
+    "bytes": 6271
+  },
+  {
+    "file": "A01-U02旺衰语义边界核查报告.md",
+    "sha256": "5e5fa58247b7b851495f40725cd9fa7f712d8222b3c38dfa60f3eab9c6823af2",
+    "bytes": 105584
+  },
+  {
+    "file": "build_report.py",
+    "sha256": "88c7522575bb012152b11b2392adf59385751a61087a62de3563ba107371b698",
+    "bytes": 57387
+  },
+  {
+    "file": "collect_evidence.py",
+    "sha256": "1a87744a78a6fd81e815ab8381b62856b8b9ea55774b0916b7e4e1d40e05e94d",
+    "bytes": 15172
+  },
+  {
+    "file": "opencode-liuren-prompt-only.json",
+    "sha256": "cc2e6840457d2cd537d1f2912deb01c3b7ab9d0a21ca4d917eac14656f8912ef",
+    "bytes": 4410
+  },
+  {
+    "file": "README-外审阅读入口.md",
+    "sha256": "b608f581166971f10774679615318d4768f9583a9635bdf382754d888db38e90",
+    "bytes": 1309
+  },
+  {
+    "file": "verify_report.py",
+    "sha256": "6e81648b904a1c80f0c23b76073aec6e4e091531c8ad694ebe25a42ab939f44e",
+    "bytes": 7105
+  },
+  {
+    "file": "九项推导核查索引.json",
+    "sha256": "e2bf879d753776a5de2a7b315c0ad1067f56989db6576a7a56fd2baac3f830cb",
+    "bytes": 13560
+  },
+  {
+    "file": "原文证据附件.md",
+    "sha256": "e740f9fb4da1fcc289d14ce34f66a54eede250046089b16d3819c34c5685299f",
+    "bytes": 354731
+  },
+  {
+    "file": "未找到的指定文件.json",
+    "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+    "bytes": 4
+  },
+  {
+    "file": "来源登记定位核对.json",
+    "sha256": "0ccffe28adfcb1a4d063f1a0dbe866cd6ba92bfb6dbdab3ae9eeff1dd47ae756",
+    "bytes": 12284
+  },
+  {
+    "file": "版本绑定核对.json",
+    "sha256": "c537ea8a5ad4aff383c48a3c2cc752a6cb8c31cd8855fa4fc9a58054d15be116",
+    "bytes": 15591
+  },
+  {
+    "file": "证据摘录.json",
+    "sha256": "bcdc041d57ec1cb0aad55589ed792a9bec40c8343b2b999231787491a1dd6df1",
+    "bytes": 352541
+  },
+  {
+    "file": "读取与保护清单.json",
+    "sha256": "604f831a5a5f3a7ee190dc0ca3304e9375763cdf5a9f55004074ceb38a94251e",
+    "bytes": 32834
+  },
+  {
+    "file": "逐版比较与来源转录核对.json",
+    "sha256": "7197cf36c14f90192e4c205e707b954924c7bc36c319e9be0a5c6ad9bf4faafc",
+    "bytes": 2335
+  },
+  {
+    "file": "验收核对.json",
+    "sha256": "ffd407f6a3bf9c994fffca66bca09ca9faed141829547f300721c07c16984166",
+    "bytes": 13400
+  }
+]
